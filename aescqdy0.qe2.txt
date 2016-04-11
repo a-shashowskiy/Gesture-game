@@ -1,0 +1,28 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Assets/Scripts/Demo/GestureDemoEvent.cs
+#	modified:   Library/AssetImportState
+#	deleted:    Library/CrashedAssetImports.txt
+#	modified:   Library/CurrentLayout.dwlt
+#	modified:   Library/EditorUserBuildSettings.asset
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll
+#	modified:   Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Library/ScriptAssemblies/Assembly-UnityScript.dll
+#	modified:   Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb
+#	modified:   Library/assetDatabase3
+#	modified:   Library/expandedItems
+#	modified:   Library/metadata/00/00000000000000004000000000000000
+#	modified:   Library/metadata/00/00000000000000006100000000000000
+#	modified:   Library/metadata/f2/f20a7e1ef72ec38428b738656f83080e
+#	modified:   Library/shadercompiler-UnityShaderCompiler.exe1.log
+#	modified:   Library/shadercompiler-UnityShaderCompiler.exe2.log
+#	modified:   Library/shadercompiler-UnityShaderCompiler.exe3.log
+#
+
