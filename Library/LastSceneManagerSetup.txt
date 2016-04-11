@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Gesture_Demo_TZ.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{784C672E-911B-66A9-80F7-E9C3DD0EA5C5}") = "Gesture game", "Assembly-CSharp.csproj", "{52AC99C1-BEBA-520D-3673-27CE6CD924F0}"
+EndProject
+Project("{784C672E-911B-66A9-80F7-E9C3DD0EA5C5}") = "Gesture game", "Assembly-CSharp-Editor.csproj", "{A4898F16-BA82-AE12-4FD0-F93C0E90D4E9}"
+EndProject
+Project("{784C672E-911B-66A9-80F7-E9C3DD0EA5C5}") = "Gesture game", "Assembly-UnityScript.unityproj", "{20E6FC0F-4132-9AAE-2665-50CB37B23560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AC99C1-BEBA-520D-3673-27CE6CD924F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AC99C1-BEBA-520D-3673-27CE6CD924F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AC99C1-BEBA-520D-3673-27CE6CD924F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AC99C1-BEBA-520D-3673-27CE6CD924F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4898F16-BA82-AE12-4FD0-F93C0E90D4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4898F16-BA82-AE12-4FD0-F93C0E90D4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4898F16-BA82-AE12-4FD0-F93C0E90D4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4898F16-BA82-AE12-4FD0-F93C0E90D4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E6FC0F-4132-9AAE-2665-50CB37B23560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E6FC0F-4132-9AAE-2665-50CB37B23560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E6FC0F-4132-9AAE-2665-50CB37B23560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E6FC0F-4132-9AAE-2665-50CB37B23560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
